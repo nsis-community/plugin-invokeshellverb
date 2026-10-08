@@ -38,7 +38,7 @@
 
 #include <windows.h>
 #include <shldisp.h>
-#include "..\ExDll\exdll.h"
+#include "exdll.h"
 
 #define OUT_SUCCESS            TEXT("success")
 #define OUT_ERR_CALL_FAILED    TEXT("method failed")
